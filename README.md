@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## About me
+My name is Lucie Pfeiferová, and currently, I am a PhD student in the Bioinformatics graduate program at the University of Chemistry and Technology Prague, working at the Institute of Molecular Genetics of the Czech Academy of Sciences in the Laboratory of Genomics and Bioinformatics. I am mainly involved in transcriptome analysis, using traditional methods such as bulk RNA-seq or newer methods such as single-cell RNA-seq and spatial transcriptomics. For the latter I am currently developing an extension to the [scdrake package](https://github.com/bioinfocz/scdrake), currently available under branch scdrake_spatial. In addition to transcriptomics, I have experience with Chip-seq data processing and variant calling. 
 <!--
 **pfeiferl/pfeiferl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
